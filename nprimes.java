@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q4 {
+public class nprimes {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int low,high;
