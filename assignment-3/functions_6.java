@@ -30,7 +30,8 @@ public class functions_6 {
             System.out.println("Element not found at any index ");
         }else{
             System.out.println("Element found at index "+index);
-        } 
+        } sc.close();
        
     }
+    
 }
