@@ -1,5 +1,5 @@
-# dsa_mentorship
+#   OVERVIEW
 ## ASSIGNMENT-1 :
-Patterns
+📔Patterns
 ## ASSIGNMENT-2 :
-Arrays
+📔Arrays
